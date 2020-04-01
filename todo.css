@@ -1,0 +1,17 @@
+body {
+	background: #555555;
+}
+h1{
+	color:rgba(250,10,10,0.8);
+	border: 2px solid yellow;
+}
+
+#specialID{
+	color:blue;
+	background-color: white;
+	
+}
+
+.specialClass{
+	text-decoration: line-through;
+}
